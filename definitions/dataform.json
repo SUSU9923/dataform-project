@@ -1,6 +1,0 @@
-{
-  "warehouse": "bigquery",
-  "defaultSchema": "Suhan_testz",
-  "defaultDatabase": "bq-test-202003",
-  "assertionSchema": "dataform_assertions"
-}
