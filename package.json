@@ -1,0 +1,8 @@
+{
+  "name": "test_dataform_suhan",
+  "warehouses": [
+    "bigquery"
+  ],
+  "defaultSchema": "dataform_default_schema",
+  "defaultDatabase": "bq-test-202003"
+}
