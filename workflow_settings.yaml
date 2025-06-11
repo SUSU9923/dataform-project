@@ -1,0 +1,4 @@
+defaultProject: bq-test-202003
+defaultLocation: europe-west8
+defaultDataset: suhan_testz
+defaultAssertionDataset: dataform_assertions
