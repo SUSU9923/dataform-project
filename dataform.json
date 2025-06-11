@@ -1,7 +1,7 @@
 {
   "warehouse": "bigquery",
   "defaultDatabase": "bq-test-202003",
-  "defaultSchema": "Suhan_testz",      // schema di destinazione
+  "defaultSchema": "suhan_testz",      // schema di destinazione
   "assertionSchema": "assertions",
   "disablePrecompiledJs": false
 }
